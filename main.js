@@ -86,7 +86,6 @@ function Circle(x,y,r,dx,dy) {
   this.draw = function() {
     c.beginPath()
     c.arc(this.x,this.y,this.r,0,PI*2)
-    c.stroke()
     c.fillStyle = this.color
     c.fill()
   }
