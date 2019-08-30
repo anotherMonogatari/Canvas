@@ -1,3 +1,3 @@
-# Canvas
+
 Here i learn HTML5 Canvas.
-Showcase: https://anothermonogatari.github.io/Canvas/index.html
+Showcase: https://anothermonogatari.github.io/canvas-bubbles/index.html
